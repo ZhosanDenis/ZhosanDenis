@@ -1,8 +1,7 @@
 ### Hello there! 👋
-***
 My name is Denis Zhosan. I'm Java Developer from Russia, Vladivostok
 
-###🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 ***
 * Java Core
 * Spring Boot
