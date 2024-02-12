@@ -1,5 +1,21 @@
 ### Hello there! 👋
+***
 My name is Denis Zhosan. I'm Java Developer from Russia, Vladivostok
+
+###🔧 Technologies & Tools
+***
+* Java Core
+* Spring Boot
+* SQL
+* PosrgreSQL
+* JUnit
+* Mockito
+* Liquibase
+* Maven
+* Docker
+* Postman
+* IntelliJ IDEA
+* Git
 
 <!--
 **ZhosanDenis/ZhosanDenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
