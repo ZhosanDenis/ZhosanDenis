@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there! 👋
+My name is Denis Zhosan. I'm Java Developer from Russia, Vladivostok
 
 <!--
 **ZhosanDenis/ZhosanDenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
